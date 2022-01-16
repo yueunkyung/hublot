@@ -54,7 +54,7 @@ function loadClock(_url) {
                         duration: 1.5,
                         ease: "bounce",
                         stagger: {
-                            amount: 0.25,
+                            amount: 0.1,
                             from: "random",
                         },
                     });
